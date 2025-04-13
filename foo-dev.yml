@@ -1,3 +1,1 @@
-bar: spam
-foo: from foo development
-democonfigclient.message: hello from dev profile
+prop1: "Hello from foo-dev.yml!"

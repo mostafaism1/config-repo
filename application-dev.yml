@@ -1,1 +1,3 @@
-my.prop: from application-dev.yml
+prop1: "Hello from application-dev.yml"
+prop2: "Hello from application-dev.yml"
+prop3: "Hello from application-dev.yml"
